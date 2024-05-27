@@ -1,2 +1,3 @@
 # blaixbux
-Our family’s budget and finance viewer (via buxfer api)
+
+it's a budget app
