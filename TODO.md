@@ -1,5 +1,8 @@
 ## TODO
 
-- [ ] View account balances
+- [ ] AGPL
+- [ ] prettynice init
+- [ ] hetzner
+- [ ] ws4sqlite
+- [ ] accounts crud
 - [ ] Mobile optimized
-- [ ] View budgets K cares about
