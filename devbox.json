@@ -1,0 +1,12 @@
+{
+  "$schema":  "https://raw.githubusercontent.com/jetify-com/devbox/0.10.7/.schema/devbox.schema.json",
+  "packages": ["nodejs@20"],
+  "shell": {
+    "init_hook": [
+      "export PATH=$PWD/node_modules/.bin:$PATH",
+      "if [ ! -f \"$PWD/node_modules/.bin/gren\" ]; then npm install; fi"
+    ],
+    "scripts": {
+    }
+  }
+}
