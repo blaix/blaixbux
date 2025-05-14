@@ -1,8 +1,8 @@
 ## TODO
 
 - [X] AGPL
-- [ ] devbox
-- [ ] prettynice init
+- [X] devbox
+- [X] prettynice init
+- [ ] upload csv files for parsing
 - [ ] devbox+fly deploy on push to master
-- [ ] drop csv files in folder for parsing
 - [ ] Mobile optimized
