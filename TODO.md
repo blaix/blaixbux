@@ -3,6 +3,7 @@
 - [X] AGPL
 - [X] devbox
 - [X] prettynice init
-- [ ] upload csv files for parsing
-- [ ] devbox+fly deploy on push to master
-- [ ] Mobile optimized
+- [ ] update prettynice to v4
+- [ ] update this project to prettynice v4
+- [ ] connect transactions with SimpleFin?
+- [ ] categorize monthly spend and bills
